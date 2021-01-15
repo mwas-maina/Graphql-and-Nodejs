@@ -19,7 +19,7 @@ const resolvers = {
       return 'hello world';
     },
     man() {
-      return 'This is a man mama';
+      return 'man';
     },
     bio() {
       return 'I am Emmanuel mwangi maina.A senior frontend developer with over 3 years working exprience';
